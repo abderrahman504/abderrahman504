@@ -5,7 +5,7 @@ I'm a computer engineering student at Alexandria University.
 I'm also an ✨*aspiring game developer*✨ and occasionally do some freelancing.  
 I read some books, play some games, watch some tv, etc.
 
-### What do I know?
+### A few things I know about
 Some good things that have come from the annual eight-month Stress'n'Torture bonanza that is university 🫠🫠 is that I learned a lot of stuff from very different fields I wouldn't otherwise learn about.  
 I know some stuff about:
 - Databases
@@ -14,18 +14,23 @@ I know some stuff about:
 - Neural Networks
 - Computer Architecture
 
-Stuff I'm really into:
+### Fields I'm really into
 - Game Development
 - Computer Graphics
-- Algorithms
 - Software Architecture
 
 ### What am I working on these days?
 When I'm not fighting off the never-ending barrage of university assignments😮‍💨 you'll find me doing some freelance game development or working on ✨*a personal project*✨ that's very dear to me. Hopefully one day I'll finish it and show it off.
 
-### Where can you find me on that interweb?
-You'll find me on twitter (I'm not calling it X, Elon!) [@abdelrahman_kh5](https://x.com/abdelrahman_kh5)   
-If you're the kind of person who really only uses Facebook.... No thanks!
+### My presence on the internet
+If you wish to find me on that web of the globe:
+- You'll find me on twitter (I'm not calling it X, Elon!) [@abdelrahman_kh5](https://x.com/abdelrahman_kh5)   
+- If you're the kind of person who really only uses Facebook....No thanks!
+
+  
+## STATS FOR YOUR EYES!!
+[![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abderrahman504&hide=stars&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahman504&layout=compact&size_weight=1&count_weight=0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **abderrahman504/abderrahman504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
