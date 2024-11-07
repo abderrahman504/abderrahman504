@@ -24,7 +24,7 @@ When I'm not fighting off the never-ending barrage of university assignments😮
 ### My presence on the internet
 If you wish to find me on that web of the globe:
 - You'll find me on twitter (I'm not calling it X, Elon!) [@abdelrahman_kh5](https://x.com/abdelrahman_kh5)
-- I'm on Bluesky too [@abdelrahmankh](abdelrahmankh.bsky.social)
+- I'm on Bluesky too [abdelrahmankh.bsky.social](https://bsky.app/profile/abdelrahmankh.bsky.social)
 - If you're the kind of person who really only uses Facebook....No thanks!
 
   
