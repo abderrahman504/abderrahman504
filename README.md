@@ -1,4 +1,4 @@
-## Hi There! I'm Abdelrahman Khayri 👋
+## \*Posh accent\* Well, hello! Come on in and take a seat. I'm your host, Abdelrahman Khayri.
 
 ### Who am I?
 I'm a computer engineering student at Alexandria University.  
