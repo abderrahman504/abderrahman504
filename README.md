@@ -17,14 +17,14 @@ I know some stuff about:
 ### Fields I'm really into
 - Game Development
 - Computer Graphics
-- Software Architecture
 
 ### What am I working on these days?
 When I'm not fighting off the never-ending barrage of university assignments😮‍💨 you'll find me doing some freelance game development or working on ✨*a personal project*✨ that's very dear to me. Hopefully one day I'll finish it and show it off.
 
 ### My presence on the internet
 If you wish to find me on that web of the globe:
-- You'll find me on twitter (I'm not calling it X, Elon!) [@abdelrahman_kh5](https://x.com/abdelrahman_kh5)   
+- You'll find me on twitter (I'm not calling it X, Elon!) [@abdelrahman_kh5](https://x.com/abdelrahman_kh5)
+- I'm on Bluesky too [@abdelrahmankh](abdelrahmankh.bsky.social)
 - If you're the kind of person who really only uses Facebook....No thanks!
 
   
