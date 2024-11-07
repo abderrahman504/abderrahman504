@@ -29,7 +29,7 @@ If you wish to find me on that web of the globe:
   
 ## STATS FOR YOUR EYES!!
 [![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abderrahman504&hide=stars&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahman504&layout=compact&size_weight=1&count_weight=0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahman504&layout=compact&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **abderrahman504/abderrahman504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
