@@ -5,8 +5,7 @@ I'm a computer engineering student at Alexandria University.
 I'm also an ✨*aspiring game developer*✨ and occasionally do some freelancing.  
 I read some books, play some games, watch some tv. Very meandaring.
 
-### A few things I know about
-Some good things that have come from the annual eight-month Stress'n'Torture bonanza that is university 🫠🫠 is that I learned a lot of stuff from very different fields I wouldn't otherwise learn about.  
+### A few things I know about 
 I know some stuff about:
 - Databases
 - Web Development
