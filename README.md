@@ -1,8 +1,8 @@
 ## \*Posh accent\* Well, hello! Come on in and take a seat. I'm your host, Abdelrahman Khayri.
 
 ### Who am I?
-I'm a computer engineering student at Alexandria University.  
-I'm also an ✨*aspiring game developer*✨ and occasionally do some freelancing.  
+I'm a computer engineering graduate from the university of Alexandria.  
+I'm also a ✨*game developer*✨ and occasionally do some freelancing.  
 I read some books, play some games, watch some tv. Very meandaring.
 
 ### A few things I know about 
@@ -18,7 +18,7 @@ I know some stuff about:
 - Computer Graphics
 
 ### What am I working on these days?
-When I'm not fighting off the never-ending barrage of university assignments😮‍💨 you'll find me doing some freelance game development or working on ✨*a personal project*✨ that's very dear to me. Hopefully one day I'll finish it and show it off.
+You'll find me doing some freelance game development or working on ✨*a personal project*✨ that's very dear to me. Hopefully one day I'll finish it and show it off.
 
 ### My presence on the internet
 If you wish to find me on that web of the globe:
